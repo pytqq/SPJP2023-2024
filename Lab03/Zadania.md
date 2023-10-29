@@ -4,7 +4,7 @@
 
 Zakładamy konto na stronie GitHub i zakładamy repozytorium w którym będziemy pracować na pozostałych zajęciach.
 
-Po założeniu konta wchodzimy na repozytorium (https://github.com/ZakrzewskiM30/SPJP) i dopisujemy się do listy zgodnie z przykładem
+Po założeniu konta wchodzimy na repozytorium (https://github.com/ZakrzewskiM30/SPJP2023-2024) i dopisujemy się do listy zgodnie z przykładem
 
 ## Zadanie 1
 
