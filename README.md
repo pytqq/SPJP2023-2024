@@ -14,4 +14,4 @@
 - [Stanisław Potrykus](https://github.com/SPotrykus/C-Project) gr.2
 - [Jakub Sadkowski](https://github.com/jakubsadkowski/jakub.git) gr. 2
 - [Mikołaj Mozoluk](https://github.com/Jalokim2115/Jezyki-Programowania-2023-2024) gr. 2
-- \[Paulina Różańska\]\(https://github.com/Pauroza0/Studia-zadania\) gr 4
+- [Paulina Różańska](https://github.com/Pauroza0/Studia-zadania) gr. 4
