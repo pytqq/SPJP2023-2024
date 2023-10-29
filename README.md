@@ -15,3 +15,4 @@
 - [Jakub Sadkowski](https://github.com/jakubsadkowski/jakub.git) gr. 2
 - [Mikołaj Mozoluk](https://github.com/Jalokim2115/Jezyki-Programowania-2023-2024) gr. 2
 - [Grzegorz Wrzosek](https://github.com/gwrzosek2/SPJP2023-2024) gr. 4
+- [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
