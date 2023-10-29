@@ -19,3 +19,4 @@
 - [Grzegorz Wrzosek](https://github.com/gwrzosek2/SPJP2023-2024) gr. 4
 - [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
 - [Szymon Możdżeń](https://github.com/smozdzen1/SPJP2023-2024) gr. 4
+- [Oliwia Natzke](https://github.com/onatzke/studia) gr. 4
