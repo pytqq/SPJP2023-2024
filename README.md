@@ -24,3 +24,5 @@
 - [Szymon Możdżeń](https://github.com/smozdzen1/SPJP2023-2024) gr. 4
 - [Oliwia Natzke](https://github.com/onatzke/studia) gr. 4
 - [Aliaksandr Petushok](https://github.com/AliaksandrPetushok/laby_Informatyka) gr. 4
+- [Jakub Szterk] (https://github.com/pytqq/studia) gr. 4
+
