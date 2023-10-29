@@ -20,3 +20,4 @@
 - [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
 - [Mateusz Gruba](https://github.com/tedooted/JPSP23-24) gr. 4
 - [Szymon Możdżeń](https://github.com/smozdzen1/SPJP2023-2024) gr. 4
+- [Aliaksandr Petushok](https://github.com/AliaksandrPetushok/laby_Informatyka) gr. 4
