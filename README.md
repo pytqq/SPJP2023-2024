@@ -9,3 +9,5 @@
 - [Błażej Baurek](https://github.com/bbadurekug/InfUGZadania) gr. 2
 - [Maja Kunicka](https://github.com/mkunicka/informatyka23) gr. 2
 - [Maciej Jańdziński](https://github.com/FajF3r/Laboratioria.git) gr.2
+- [Oskar Wilms](https://github.com/oskarwilms1/ProjektyStudia) gr.2
+
